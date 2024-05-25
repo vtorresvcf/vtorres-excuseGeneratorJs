@@ -1,1 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-image: url(/src/assets/img/pexels-divinetechygirl-1181325.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
